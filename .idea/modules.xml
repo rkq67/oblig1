@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/data1200oblig1.iml" filepath="$PROJECT_DIR$/.idea/data1200oblig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/index.html/src/media/images.iml" filepath="$PROJECT_DIR$/index.html/src/media/images.iml" />
+      <module fileurl="file://$PROJECT_DIR$/index.html/index.html.iml" filepath="$PROJECT_DIR$/index.html/index.html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/index.html/media/media.iml" filepath="$PROJECT_DIR$/index.html/media/media.iml" />
     </modules>
   </component>
 </project>
